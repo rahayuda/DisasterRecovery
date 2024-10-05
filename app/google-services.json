@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036068834178",
+    "project_id": "disasterrecovery-cb53e",
+    "storage_bucket": "disasterrecovery-cb53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036068834178:android:5c1a7917b33827be839d9b",
+        "android_client_info": {
+          "package_name": "com.example.disasterrecovery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFzN1BlB8ibRaoMsdwe9v76ex3tM8WFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
